@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>个人主页</title>
+</head>
+    <style>
+        h1{
+            text-align: center;
+            font-weight: 400;
+            color: #333;
+            font-size: 30px;
+        }
+        p{
+            text-indent: 2em;
+            font-size: 18px;
+            color: #333;
+        }
+        a{
+            color: red;
+        }
+    </style>
+<body>
+    <h1>欢迎来到我的个人主页</h1>
+    <hr>
+    <h2>个人介绍</h2>
+    <hr>
+    <h3>个人信息</h3>
+    <li>姓名:朱家俊</li>
+    <li>家乡:<strong><a href="https://baike.baidu.com/item/%E6%B7%AE%E5%8D%97%E5%B8%82/210762?fr=ge_ala" target="_blank">安徽淮南</a></strong></li>
+    <hr>
+    <h3>兴趣爱好</h3>
+    <li>打游戏(主要玩一些<strong><a href="https://baike.baidu.com/item/%E7%AC%AC%E4%B8%80%E4%BA%BA%E7%A7%B0%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F/1733838?fr=ge_ala">FPS类游戏</a>例如:<a href="https://baike.baidu.com/item/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6/50370598?fr=ge_ala">无畏契约</a>,<a href="https://baike.baidu.com/item/%E5%8F%8D%E6%81%90%E7%B2%BE%E8%8B%B12/10984895?fr=ge_ala">cs2</a></strong>)</li>
+    <li>读书,不喜欢文艺类的书籍,读过<strong><a href="https://baike.baidu.com/item/%E9%92%A2%E9%93%81%E6%98%AF%E6%80%8E%E6%A0%B7%E7%82%BC%E6%88%90%E7%9A%84/67?fr=ge_ala" target="_blank">《钢铁是怎样炼成的》</a>,<a href="https://baike.baidu.com/item/%E6%B5%B7%E5%BA%95%E4%B8%A4%E4%B8%87%E9%87%8C/64843?fr=ge_ala" target="_blank">《海底两万里》</a></strong>等</li>
+    <li>在各个编程网站(<strong><a href="https://ac.nowcoder.com/" target="_blank">牛客</a>,<a href="https://www.luogu.com.cn/?utm_source=ihola" target="_blank">洛谷</a>,<a href="https://codeforces.com/" target="_blank">codeforces</a>,<a href="https://atcoder.jp/" target="_blank">Atcoder</a></strong>)练习算法编程</li>
+    <hr>
+    <h3>教育经历</h3>
+    <li>2016~2019就读于<strong><a href="https://baike.baidu.com/item/%E6%B7%AE%E5%8D%97%E5%B8%82%E7%AC%AC%E4%B8%83%E4%B8%AD%E5%AD%A6/61553887?fr=ge_ala">淮南七中</a></strong></li>
+    <li>2019~2022就读于<strong><a href="https://baike.baidu.com/item/%E6%B7%AE%E5%8D%97%E7%AC%AC%E4%B8%89%E4%B8%AD%E5%AD%A6/61952452?fr=ge_ala">淮南三中</a></strong></li>
+    <li>2022~今就读于<strong><a href="https://baike.baidu.com/item/%E6%BB%81%E5%B7%9E%E5%AD%A6%E9%99%A2/4466920?fr=ge_ala">滁州学院</a>,<a href="https://baike.baidu.com/item/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/25279?fr=ge_ala">软件工程专业</a></strong></li>
+    <hr>
+    <h2>对软件工程的了解</h2>
+    <p><ins>属于计算机大类的一个分支,主要进行软件方面的学习,主要去向有软件开发,软件测试等行业。主要学习的课程有《C/C++程序设计》、《Java语言程序设计》、《软件工程》、《数据结构与算法》、《数据库开发技术》、《算法分析》等。</ins></p>
+    <hr>
+    <h2>喜爱的课程</h2>
+    <p>喜欢的课程均在期末考试中拿到<strong>95分</strong>以上的成绩，<ins>喜欢需要动手进行实践的课程，喜欢需要编程的课程。对于编程类的课程中需要多动手去写程序，把每一个语句弄清楚其含义，才能再后续的学习中熟练的运用。</ins></p>
+    <li>《c/c++程序设计》(期末95分)</li>
+    <li>《数据结构》(期末100分)</li>
+    <li>《JAVA面向对象开发》(期末96分)</li>
+    <hr>
+    <h2>个人经历</h2>
+    <li>在2022年1124程序设计大赛中获得<strong>第二名</strong></li>
+    <li>在滁州学院2023大学生程序设计大赛中获得<strong>三等奖</strong></li>
+    <li>在2023年<strong>1024程序设计大赛</strong>ACM实验选拔中被选中</li>
+    <li>获得<strong><a href="https://baike.baidu.com/item/iCAN%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%9B%E6%96%B0%E5%88%9B%E4%B8%9A%E5%A4%A7%E8%B5%9B/63261548?fr=ge_ala">iCAN</a></strong>大赛<strong>三等奖</strong></li>
+    <li>在2024年滁州学院中国大学生天梯赛选拔赛中获得<strong>一等奖</strong>，并入选滁院一队</li>
+    <hr>
+</body>
+</html>
